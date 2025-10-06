@@ -1,0 +1,8 @@
+
+---
+
+## 🧭 Steps to Upload on GitHub (from PyCharm)
+
+1. **Open PyCharm → New Project → Name:** `leetcode-top5-problems`  
+2. Copy all the files above into your project folder.  
+3. **Initialize Git:**  
